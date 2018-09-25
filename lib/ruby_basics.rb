@@ -11,12 +11,12 @@ def argue(phrase)
 end
 
 def greeting(phrase, name)
-  phrase + ', ' + name
+  phrase + name
   
 end
 
 def return_a_value
-
+  
 end
 
 def last_evaluated_value
